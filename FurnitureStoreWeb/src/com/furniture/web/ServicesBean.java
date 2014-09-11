@@ -62,7 +62,7 @@ public class ServicesBean implements Serializable {
 		System.out.println(res);
 		setImage(new DefaultStreamedContent(new ByteArrayInputStream(res)));*/
 		
-		//System.err.println(picture.getImg());
+		System.err.println("Test Repository");
 		
 		return null;
 	}
