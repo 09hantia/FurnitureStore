@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><packages version="1.3">
+  <package exploded="false" inWorkspace="true" name="FurnitureStoreEAR.jar" todir="/FurnitureStoreEAR" type="jar">
+    <properties>
+      <property name="org.jboss.ide.eclipse.as.core.packages.ModuleIDPropertyKey" value="140925732183628526167006423-937506573"/>
+    </properties>
+  </package>
+  <properties/>
+</packages>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<onload-config xmlns="urn:onload-config"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:onload-config onload-config.xsd">
+  	  
+	  <navigation-rule>
+	    <view-id>/webpage/test.xhtml</view-id>
+	    <action>#{testBean.onload}</action>
+	  </navigation-rule>
+	  
+	  <navigation-rule>
+	    <view-id>/webpage/services.xhtml</view-id>
+	    <action>#{servicesBean.onload}</action>
+	  </navigation-rule>
+	  
+	  <navigation-rule>
+	    <view-id>/webpage/gallery.xhtml</view-id>
+	    <action>#{galleryBean.onload}</action>
+	  </navigation-rule>
+	  
+</onload-config>
